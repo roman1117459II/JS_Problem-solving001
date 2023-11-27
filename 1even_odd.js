@@ -1,7 +1,7 @@
 // even or odd
 
 
-var numb = 11;
+var numb = 12;
 
 if(numb % 2 == 0) {
     console.log("The number is even.");
